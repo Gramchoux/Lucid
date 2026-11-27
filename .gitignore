@@ -1,0 +1,6 @@
+tools/zig/
+dist/
+build/
+*.spec
+__pycache__/
+*.py[cod]

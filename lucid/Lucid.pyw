@@ -1,0 +1,8 @@
+# Double-clic : lance Lucid sans console (pythonw).
+import os, sys
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import server
+server.main()
+
+
+
